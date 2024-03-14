@@ -160,8 +160,7 @@ This simplified SEO learning roadmap provides a step-by-step guide for beginners
 ---
 ## Contribute TO This Project
 
-We welcome contributions from everyone. Before you start contributing, please read the (Contribution Guidelines)[contribute.md] to learn about our development process, coding standards, and how to propose changes.
-
+We welcome contributions from everyone. Before you start contributing, please read the [Contribution Guidelines](contribute.md) to learn about our development process, coding standards, and how to propose changes.
 ## Feedback and Suggestions
 
 We value your feedback and suggestions! If you have any ideas for improvement or you've noticed any mistakes, please feel free to open an issue or reach out to us. Your input helps us make this project better for everyone. Kindly use the Enhancement issue template for feature tell us to add new things and Bug Template to point out our mistake. 
