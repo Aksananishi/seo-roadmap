@@ -61,74 +61,74 @@ This simplified SEO learning roadmap provides a step-by-step guide for beginners
 - [x] Difference between paid and organic results.
 - [x] Basic HTML and CSS for website structure.
 - [ ] Basic understanding on website hosting, domains, and URLs.
-- [ ] Familiarize with web analytics tools (Google Analytics).
-- [ ] Use cases of SEO, Optimisation and why they works.
+- [x] Familiarize with web analytics tools (Google Analytics).
+- [x] Use cases of SEO, Optimisation and why they works.
 
 ## Stage 2: On-Page SEO Optimization
 
-- [ ] Understand on-page SEO elements:
-  - [ ] Title tags
-  - [ ] Meta descriptions
-  - [ ] Headings
-- [ ] Keyword research techniques and tools.
-- [ ] Optimize content for keywords.
-- [ ] The importance of high-quality content.
-- [ ] Optimize images for SEO.
-- [ ] Understand internal and external linking.
-- [ ] Know about schema markup.
-- [ ] Page load speed and mobile optimization.
+- [x] Understand on-page SEO elements:
+  - [x] Title tags
+  - [x] Meta descriptions
+  - [x] Headings
+- [x] Keyword research techniques and tools.
+- [x] Optimize content for keywords.
+- [x] The importance of high-quality content.
+- [x] Optimize images for SEO.
+- [x] Understand internal and external linking.
+- [x] Know about schema markup.
+- [x] Page load speed and mobile optimization.
 
 ## Stage 3: Off-Page SEO Optimization
 
-- [ ] Backlinks and how to build quality backlink.
-- [ ] Anchor text optimization.
-- [ ] Domain Authority(DA) improvement.
-- [ ] Page Authority(PA) improvement
-- [ ] Social signals.
-- [ ] Online reputation management.
-- [ ] Understand guest blogging.
-- [ ] Know about local SEO.
+- [x] Backlinks and how to build quality backlink.
+- [x] Anchor text optimization.
+- [x] Domain Authority(DA) improvement.
+- [x] Page Authority(PA) improvement
+- [x] Social signals.
+- [x] Online reputation management.
+- [x] Understand guest blogging.
+- [x] Know about local SEO.
 
 ## Stage 4: Technical SEO
 
-- [ ] Website crawlability and indexability.
-- [ ] Robots.txt and XML sitemaps.
+- [x] Website crawlability and indexability.
+- [x] Robots.txt and XML sitemaps.
 - [ ] Understand canonicalization and HTTPS.
 - [ ] Website structure and URL optimization.
 - [ ] Understand server-side and client-side rendering.
 - [ ] Structured data markup.
-- [ ] Website security.
+- [x] Website security.
 
 ## Stage 5: Advanced SEO Techniques
 
-- [ ] Explore advanced keyword research techniques.
-- [ ] Advanced content optimization strategies.
+- [x] Explore advanced keyword research techniques.
+- [x] Advanced content optimization strategies.
 - [ ] *Copywriting Techniques*
-- [ ] Understand user experience (UX) importance.
-- [ ] Learn advanced on-page optimization techniques.
+- [x] Understand user experience (UX) importance.
+- [x] Learn advanced on-page optimization techniques.
 - [ ] Know about information architecture.
-- [ ] Explore advanced link building strategies.
-- [ ] Understand technical SEO concepts.
+- [x] Explore advanced link building strategies.
+- [x] Understand technical SEO concepts.
 - [ ] Know about voice search optimization.
 - [ ] Understand featured snippets optimization.
 - [ ] *Understand international SEO.*
-- [ ] *Understand Local SEO* 
+- [x] *Understand Local SEO* 
 
 ## Stage 6: SEO Analytics and Reporting
 
 - [ ] Understand key SEO metrics.
 - [ ] Understand Google Analytics reports.
 - [ ] Know about conversion tracking.
-- [ ] Learn about Google Search Console.
+- [x] Learn about Google Search Console.
 - [ ] Explore advanced SEO reporting techniques.
-- [ ] Understand A/B testing.
-- [ ] Know about competitor analysis.
-- [ ] Basic understanding on Google Tag Manager
+- [x] Understand A/B testing.
+- [x] Know about competitor analysis.
+- [x] Basic understanding on Google Tag Manager
 
 ## Stage 7: SEO Strategy and Planning
 
-- [ ] How to conduct an SEO audit.
-- [ ] Understand setting realistic SEO goals.
+- [x] How to conduct an SEO audit.
+- [x] Understand setting realistic SEO goals.
 - [ ] Develop an effective SEO strategy.
 - [ ] Know about content calendars.
 - [ ] Understand marketing techniques, sales funnels.
@@ -136,7 +136,7 @@ This simplified SEO learning roadmap provides a step-by-step guide for beginners
 
 ## Stage 8: Advanced SEO Topics
 
-- [ ] *SEO for e-commerce websites.*
+- [x] *SEO for e-commerce websites.*
 - [ ] Understand SEO for news websites.
 - [ ] Advance local SEO strategies.
 - [ ] SEO for mobile apps and app store optimization.
